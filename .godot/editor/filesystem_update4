@@ -1,0 +1,8 @@
+res://level/level.tscn
+res://level/tileset.tres
+res://level/props/wind_sway.tres
+res://gui/theme.tres
+res://game_singleplayer.tscn
+res://player/player.tscn
+res://level/coin.tscn
+res://enemy/enemy.tscn
